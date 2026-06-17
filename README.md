@@ -1,6 +1,6 @@
-# Andres Dimech
+# Full-stack developer in Toronto
 
-Full-stack developer in Toronto. I build web products end to end — design, build, ship.
+I build web products end to end — design, build, ship.
 
 ### Stack
 
