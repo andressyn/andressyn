@@ -1,8 +1,8 @@
-### About
+#### About
 
 22, based in Toronto. Studying Computer Science at Wilfrid Laurier University.
 
-### Building with
+#### Building with
 
 `TypeScript` `C#` `Python` `Go` `Rust` `SQL` `React` `Next.js` `Astro` `Tailwind CSS` `Node.js` `ASP.NET Core` `PostgreSQL` `AWS` `Azure` `Docker` `Kubernetes` `Cloudflare`
 
