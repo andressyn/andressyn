@@ -1,5 +1,3 @@
-# Full-stack developer in Toronto
-
 I build web products end to end — design, build, ship.
 
 ### Stack
