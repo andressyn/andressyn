@@ -1,5 +1,3 @@
-I build web products end to end — design, build, ship.
-
 ### About
 
 22, based in Toronto. Studying Computer Science at Wilfrid Laurier University.
