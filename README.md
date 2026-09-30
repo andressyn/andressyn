@@ -1,5 +1,5 @@
-22 / Toronto / CS at WLU
+about \ 22 / toronto / cs at wlu
 
-`TypeScript` `C#` `Python` `Go` `Rust` `SQL` `React` `Next.js` `Astro` `Tailwind CSS` `Node.js` `Angular.js` `ASP.NET Core` `PostgreSQL` `AWS` `Azure` `Docker` `Kubernetes` `Cloudflare`
+stack \ `TypeScript` `C#` `Python` `Go` `Rust` `SQL` `React` `Next.js` `Astro` `Tailwind CSS` `Node.js` `Angular.js` `ASP.NET Core` `PostgreSQL` `AWS` `Azure` `Docker` `Kubernetes` `Cloudflare`
 
-[dimech.dev](https://dimech.dev) / [dustin-dimech](https://www.linkedin.com/in/dustin-dimech/) / [a.dimech0515@gmail.com](mailto:a.dimech0515@gmail.com)
+contact \ [dimech.dev](https://dimech.dev) / [dustin-dimech](https://www.linkedin.com/in/dustin-dimech/) / [a.dimech0515@gmail.com](mailto:a.dimech0515@gmail.com)
